@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I’m a Web Developer<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50px">.
 <!-- Connect with me   -->
-### ***Contact Me At:***: 
+### ***Contact Me At:*** 
 <div align="center">
     <a href="https://t.me/ArtemZ71" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>   -->
     <a href="mailto:zhogloaa@yandex.ru" >
-        <img src="https://img.shields.io/badge/emial-green.svg?&style=for-the-badge" alt="email" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/emial-green.svg?&style=for-the-badge" alt="emial" style="margin-bottom: 5px;" />
     </a>
 </div>  
 
