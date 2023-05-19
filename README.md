@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>   -->
     <a href="mailto:zhogloaa@yandex.ru" >
-        <img src="https://img.shields.io/badge/emial-green.svg?&style=for-the-badge" alt="emial" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/email-green.svg?&style=for-the-badge" alt="email" style="margin-bottom: 5px;" />
     </a>
 </div>  
 
