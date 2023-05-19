@@ -55,16 +55,8 @@ Here are some ideas to get you started:
 </p>
 
 ### ***My GitHub Stats***:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div>
-        <a href="https://github.com/ZhArtem"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhArtem&layout=pie&langs_count=10&title_color=10b981&text_color=84cc16&icon_color=ef4444&bg_color=22272e&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height=100%/></a>
-    </div>
-    <div>
-        <div >
-            <a href="http://www.github.com/ZhArtem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhArtem&stroke=84cc16&background=22272e&ring=10b981&fire=10b981&currStreakNum=84cc16&currStreakLabel=10b981&sideNums=84cc16&sideLabels=84cc16&dates=84cc16" /></a>
-        </div>
-        <div>
-            <a href="http://www.github.com/ZhArtem"><img src="https://github-readme-stats.vercel.app/api?username=ZhArtem&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=84cc16&icon_color=ef4444&bg_color=22272e&show_icons=true" alt="ZhArtem's GitHub stats" width=100%/></a>
-        </div>
-    </div>
-</div>
+<a href="https://github.com/ZhArtem" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhArtem&layout=pie&langs_count=10&title_color=10b981&text_color=84cc16&icon_color=ef4444&bg_color=22272e&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+<a href="http://www.github.com/ZhArtem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhArtem&stroke=84cc16&background=22272e&ring=10b981&fire=10b981&currStreakNum=84cc16&currStreakLabel=10b981&sideNums=84cc16&sideLabels=84cc16&dates=84cc16" /></a>
+<a href="http://www.github.com/ZhArtem"><img src="https://github-readme-stats.vercel.app/api?username=ZhArtem&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=84cc16&icon_color=ef4444&bg_color=22272e&show_icons=true" alt="ZhArtem's GitHub stats" /></a>
+</p>
